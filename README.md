@@ -1,3 +1,3 @@
-## granular synth
+## grains
 
-programmed using tone.js web audio framework
+granular synth programmed using tone.js web audio framework.
